@@ -1,4 +1,6 @@
-# autofix
+<p align="center">
+  <img src="assets/banner.png" alt="autofix: double-tap Control to fix your writing, in any app" width="734">
+</p>
 
 Double-tap **Control** on your Mac to fix the spelling and grammar of the selected text. The fix replaces the text in place, in any app.
 
@@ -20,6 +22,10 @@ git clone https://github.com/maximeantoine1997/mac-autofix.git
 cd mac-autofix
 ./install.sh
 ```
+
+<p align="center">
+  <img src="assets/install.png" alt="The autofix installer in the terminal" width="640">
+</p>
 
 The installer does these steps:
 
@@ -91,6 +97,7 @@ autofix/
   fx.lua       bubble and effect on the text
   config.lua   your settings
 install.sh     installer
+assets/        images for this README
 ```
 
 ## License
