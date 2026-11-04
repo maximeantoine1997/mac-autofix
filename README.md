@@ -9,6 +9,14 @@ Double-tap **Control** on your Mac to fix the spelling and grammar of the select
 - While the model works, a light sweeps over the text and a small bubble shows the status.
 - It uses Claude Haiku through Vercel AI Gateway or the Anthropic API. A fix takes approximately one second.
 
+## Demo
+
+<p align="center">
+  <img src="assets/demo.gif" alt="autofix fixes a message in a chat app, then a French email, in place" width="800">
+</p>
+
+The full-quality video is in [assets/autofix-demo.mp4](assets/autofix-demo.mp4).
+
 ## Requirements
 
 - macOS
@@ -97,7 +105,7 @@ autofix/
   fx.lua       bubble and effect on the text
   config.lua   your settings
 install.sh     installer
-assets/        images for this README
+assets/        images and demo video for this README
 ```
 
 ## License
